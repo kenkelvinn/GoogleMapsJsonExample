@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMapsJsonExample</string>
+
+    <string name="lat">-23.573325</string>
+    <string name="lng">-46.622943</string>
+    <string name="btnbuscar">Buscar Endereço</string>
+
+</resources>
